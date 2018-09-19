@@ -140,11 +140,9 @@ Util应用框架面向的是*架构初学者*，但不是.net初学者。
   - XUnit
   - NSubstitute
 
-8. ORM
-  - EntityFrameworkCore
-  - Microsoft.EntityFrameworkCore.SqlServer
-  - Npgsql.EntityFrameworkCore.PostgreSQL
-  - Pomelo.EntityFrameworkCore.MySql
+8. 数据访问框架
+  - [EntityFrameworkCore](https://docs.microsoft.com/zh-cn/ef/core/)
+  - [Dapper](https://github.com/StackExchange/Dapper)
 
 9. Ioc框架
   - Autofac
@@ -522,3 +520,4 @@ https://github.com/dotnetcore/util/
 - 2018年7月15日，更新了微信APP支付。
 - 2018年7月16日，更新了微信支付回调。
 - 2018年8月30日，更新了Sql生成器和SqlQuery查询对象。
+- 2018年9月14日，更新了WebApi跟踪日志过滤器。
